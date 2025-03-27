@@ -7,7 +7,7 @@
 
 2. Jalankan aplikasi
 
-    $ streamlit run streamlit_app.py
+    $ streamlit run dashboard_app.py
 
 # Berikut link dashboard : 
     https://appdatajagi.streamlit.app/
